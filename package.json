@@ -1,0 +1,10 @@
+{
+  "name": "sign-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.21.0",
+    "playwright-core": "^1.51.0",
+    "@playwright/browser-chromium": "^1.51.0"
+  }
+}
